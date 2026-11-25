@@ -1,0 +1,3 @@
+interface:
+  display_name: "Sync Coding Style"
+  short_description: "Distill wiki coding rules into the coding-style skill"
